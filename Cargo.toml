@@ -1,0 +1,9 @@
+[package]
+name = "tetris"
+version = "0.1.0"
+authors = ["Evan Davis <cptroot@gmail.com>"]
+
+[dependencies]
+piston = "0.25.0"
+piston_window = "0.52.0"
+rand = "0.3.14"
